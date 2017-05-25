@@ -46,9 +46,20 @@ li a:hover {
     background-color: #111;
 }
 
-p{
+p.daddy{
    font-size:35px;
 }
 
 
 
+  body {
+      background-color:#cc5f5f ;
+  }
+ 
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
